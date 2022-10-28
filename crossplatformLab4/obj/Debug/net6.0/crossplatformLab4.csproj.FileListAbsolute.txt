@@ -1,0 +1,17 @@
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\bin\Debug\net6.0\crossplatformLab4.exe
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\bin\Debug\net6.0\crossplatformLab4.deps.json
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\bin\Debug\net6.0\crossplatformLab4.runtimeconfig.json
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\bin\Debug\net6.0\crossplatformLab4.dll
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\bin\Debug\net6.0\crossplatformLab4.pdb
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\bin\Debug\net6.0\McMaster.Extensions.CommandLineUtils.dll
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\obj\Debug\net6.0\crossplatformLab4.csproj.AssemblyReference.cache
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\obj\Debug\net6.0\crossplatformLab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\obj\Debug\net6.0\crossplatformLab4.AssemblyInfoInputs.cache
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\obj\Debug\net6.0\crossplatformLab4.AssemblyInfo.cs
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\obj\Debug\net6.0\crossplatformLab4.csproj.CoreCompileInputs.cache
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\obj\Debug\net6.0\crossplatformLab4.csproj.CopyComplete
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\obj\Debug\net6.0\crossplatformLab4.dll
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\obj\Debug\net6.0\refint\crossplatformLab4.dll
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\obj\Debug\net6.0\crossplatformLab4.pdb
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\obj\Debug\net6.0\crossplatformLab4.genruntimeconfig.cache
+C:\Users\sofy2\source\repos\crossplatformLab4\crossplatformLab4\obj\Debug\net6.0\ref\crossplatformLab4.dll

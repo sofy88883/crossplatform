@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HhumeBm0w8JcpN5EIIXoR/iZUGgX8nCrM3ffMvtVN/bxf5z78NsgAg3lCui/fBacDyjB8jysZX4B7UF2KzAwiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sofy2\\source\\repos\\crossplatformLab4\\crossplatformLab4\\crossplatformLab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sofy2\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.0.1\\mcmaster.extensions.commandlineutils.4.0.1.nupkg.sha512",
+    "C:\\Users\\sofy2\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
